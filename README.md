@@ -1,1 +1,2 @@
-# VS-1st-project
+# p5.play-boilerplate
+Boiler plate for p5.play
